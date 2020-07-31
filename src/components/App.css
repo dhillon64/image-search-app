@@ -1,0 +1,4 @@
+.bond{
+    display: flex;
+    flex-direction: column;
+}
